@@ -13,6 +13,6 @@
 		align-items: center;
 		width: 100vw;
 		height: 100vh;
-		background: linear-gradient(90deg, var(--color-background), var(--color-secondary));
+		background: linear-gradient(90deg, var(--color-background), black);
 	}
 </style>
